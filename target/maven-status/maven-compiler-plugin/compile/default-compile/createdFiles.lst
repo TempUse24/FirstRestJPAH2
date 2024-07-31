@@ -1,0 +1,5 @@
+com\example\FirstRest\controller\ProductController.class
+com\example\FirstRest\FirstRestJpaMySqlApplication.class
+com\example\FirstRest\service\ProductService.class
+com\example\FirstRest\repository\ProductRepository.class
+com\example\FirstRest\entity\Product.class
